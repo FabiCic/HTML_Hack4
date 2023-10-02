@@ -1,1 +1,13 @@
-# HTML_Hack4
+
+# Tecnología
+- [x] HTML
+- [ ] CSS3
+- [ ] docs
+
+# Seleccione el tipo de actividad
+- [x] Feature
+- [ ] Changes
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
